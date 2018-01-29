@@ -1,0 +1,8 @@
+naiveLoad smallOrders.tbl
+naiveSearchEq 3 F
+naiveBufSearchEq 3 F
+naiveSearchGtr 4 20000
+naiveBufSearchEq 3 F
+naiveSearchGtr 2 13
+binarySearchEq 3 F
+binarySearchGtr 2 13

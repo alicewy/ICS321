@@ -1,0 +1,1 @@
+SELECT level2 AS prodlevel2, SUM(totalpce) AS totalpce FROM prodhierarchy JOIN (SELECT prod, year, SUM(pce) AS totalpce FROM pceprod WHERE year = 2009 GROUP BY prod, year) pcp ON (prodhierarchy.level3 = pcp.prod) GROUP BY level2;

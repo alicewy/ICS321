@@ -1,0 +1,1 @@
+SELECT func, year, quarter, pce FROM pcefunc WHERE pce = (SELECT MIN(pce) FROM pcefunc);

@@ -1,0 +1,1 @@
+SELECT year, annualpce FROM (SELECT year, MAX(annualpce) AS annualpce FROM (SELECT year, SUM(pce) AS annualpce FROM pcefunc GROUP BY year) GROUP BY year) WHERE annualpce = (SELECT MAX(annualpce) FROM (SELECT year, SUM(pce) AS annualpce FROM pcefunc GROUP BY year));

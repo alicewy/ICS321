@@ -32,6 +32,7 @@ GRANT CONNECT TO 1;
 GRANT CREATE SESSION GRANT ANY PRIVILEGE TO 1; (new user login is now username: 1 pass: 1)?
 
 apt wget install (install wget to obtain zip file)
+\n
 unzip dockerfilename.zip (to unzip zip file on docker)
 
 

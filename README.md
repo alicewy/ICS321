@@ -2,8 +2,12 @@
 Assignment 1: Querying Large Files
 <br><br>
 -------------------------------------------------------
+
+
+<br><br>
 Assignment 2: Write SQL Queries
 <br><br>
+-------------------------------------------------------
 Questions answered:
 
 1. How much money is spent for what purpose by consumers in the U.S. in the first quarter of 2010 ? Another way to phrase this is : What is the personal consumption expenditure of each function in the first quarter of 2010 ? The result should have the columns: func, pce.
@@ -40,9 +44,9 @@ apt wget install (install wget to obtain zip file)
 <br><br>
 unzip dockerfilename.zip (to unzip zip file on docker)
 <br><br>
--------------------------------------------------------
 Assignment 3: Web Application using JSF & JDBC
 <br><br>
 -------------------------------------------------------
 Assignment 4: Design a Database
 <br><br>
+-------------------------------------------------------

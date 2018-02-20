@@ -29,7 +29,7 @@ Questions answered:
 9. What is the annual PCE of “Goods” for each year ? The result should have the columns: year, annualpce.
 
 10.
-<br><br><br>
+<br>
 Example to load using docker:
 <br><br>
 sqlplus (default password: oracle, username not requested)

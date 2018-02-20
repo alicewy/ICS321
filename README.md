@@ -1,8 +1,8 @@
 # ICS321
 Assignment 1: Querying Large Files
-
+<br><br>
 Assignment 2: Write SQL Queries
-
+<br><br>
 Questions answered:
 
 1. How much money is spent for what purpose by consumers in the U.S. in the first quarter of 2010 ? Another way to phrase this is : What is the personal consumption expenditure of each function in the first quarter of 2010 ? The result should have the columns: func, pce.
@@ -26,21 +26,20 @@ Questions answered:
 10.
 
 Example to load using docker:
-<br>
-<br>
+<br><br><br>
 sqlplus (default password: oracle, username not requested)
-<br>
+<br><br>
 CREATE USER 1 IDENTIFIED BY 1;
-<br>
+<br><br>
 GRANT CONNECT TO 1;
-<br>
+<br><br>
 GRANT CREATE SESSION GRANT ANY PRIVILEGE TO 1; (new user login is now username: 1 pass: 1)?
-<br>
+<br><br>
 apt wget install (install wget to obtain zip file)
-<br>
+<br><br>
 unzip dockerfilename.zip (to unzip zip file on docker)
-
+<br><br>
 
 Assignment 3: Web Application using JSF & JDBC
-
+<br><br>
 Assignment 4: Design a Database

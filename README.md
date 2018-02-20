@@ -1,6 +1,7 @@
 # ICS321
 Assignment 1: Querying Large Files
 <br><br>
+-------------------------------------------------------
 Assignment 2: Write SQL Queries
 <br><br>
 Questions answered:
@@ -24,9 +25,9 @@ Questions answered:
 9. What is the annual PCE of “Goods” for each year ? The result should have the columns: year, annualpce.
 
 10.
-
-Example to load using docker:
 <br><br><br>
+Example to load using docker:
+<br><br>
 sqlplus (default password: oracle, username not requested)
 <br><br>
 CREATE USER 1 IDENTIFIED BY 1;
@@ -39,7 +40,9 @@ apt wget install (install wget to obtain zip file)
 <br><br>
 unzip dockerfilename.zip (to unzip zip file on docker)
 <br><br>
-
+-------------------------------------------------------
 Assignment 3: Web Application using JSF & JDBC
 <br><br>
+-------------------------------------------------------
 Assignment 4: Design a Database
+<br><br>

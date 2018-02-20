@@ -27,6 +27,7 @@ Questions answered:
 
 Example to load using docker:
 <br>
+<br>
 sqlplus (default password: oracle, username not requested)
 <br>
 CREATE USER 1 IDENTIFIED BY 1;

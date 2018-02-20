@@ -43,7 +43,7 @@ GRANT CREATE SESSION GRANT ANY PRIVILEGE TO 1; (new user login is now username: 
 apt wget install (install wget to obtain zip file)
 <br><br>
 unzip dockerfilename.zip (to unzip zip file on docker)
-<br><br>
+<br><br><br>
 Assignment 3: Web Application using JSF & JDBC
 <br><br>
 -------------------------------------------------------

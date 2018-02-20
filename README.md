@@ -26,13 +26,17 @@ Questions answered:
 10.
 
 Example to load using docker:
+<br>
 sqlplus (default password: oracle, username not requested)
+<br>
 CREATE USER 1 IDENTIFIED BY 1;
+<br>
 GRANT CONNECT TO 1;
+<br>
 GRANT CREATE SESSION GRANT ANY PRIVILEGE TO 1; (new user login is now username: 1 pass: 1)?
-
+<br>
 apt wget install (install wget to obtain zip file)
-\n
+<br>
 unzip dockerfilename.zip (to unzip zip file on docker)
 
 
